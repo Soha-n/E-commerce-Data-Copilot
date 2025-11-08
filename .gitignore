@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+
+# Local Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Data artifacts
+/data/
+*.xlsx
+*.xls
+
+# OS noise
+.DS_Store
+Thumbs.db

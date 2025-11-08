@@ -31,8 +31,8 @@ An advanced conversational analytics platform designed to transform e-commerce d
 │   │   ├── prompt.py       # Schema summary and prompt assembly
 │   │   ├── model.py        # Gemini model wrapper
 │   │   ├── executor.py     # Sandboxed code execution
-│   │   ├── intent.py       # Intent classification (chat vs analysis)
-│   │   └── memory.py       # Conversation persistence (optional)
+│   │   └──  intent.py       # Intent classification (chat vs analysis)
+│   │
 │   ├── data/
 │   │   └── loader.py       # CSV and Excel data ingestion
 │   ├── retrieval/
